@@ -2,13 +2,13 @@
 title: Home
 layout: home
 nav_order: 1
-description: "Data Science Docs"
+description: "Fernando Rioseco Porfolio"
 permalink: /
 ---
 
-# **Data Science Docs**
+# **Fernando Rioseco**
 {: .fs-9 }
 
-My Docs for Data Science, Python and More.
+Data Science.
 {: .fs-6 .fw-300 }
 
