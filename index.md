@@ -9,6 +9,6 @@ permalink: /
 # **Fernando Rioseco**
 {: .fs-9 }
 
-Data Science.
+**Data Science**: Analytics Especialist.
 {: .fs-6 .fw-300 }
 
